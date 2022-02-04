@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android/draw_path_android.iml" filepath="$PROJECT_DIR$/android/draw_path_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/draw_path_example_android.iml" filepath="$PROJECT_DIR$/example/android/draw_path_example_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/draw_path_flutter.iml" filepath="$PROJECT_DIR$/draw_path_flutter.iml" />
+    </modules>
+  </component>
+</project>
