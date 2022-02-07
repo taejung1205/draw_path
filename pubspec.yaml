@@ -1,7 +1,7 @@
 name: draw_path
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/immcoc2/draw_path
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map: ^0.14.0
   latlong2: ^0.8.1
+  google_maps_flutter:
 
 dev_dependencies:
   flutter_test:
