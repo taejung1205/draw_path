@@ -62,6 +62,8 @@ class DrawPath {
       height = maxHeight;
     }
 
+    
+
 
     if (points.length > 1) {
       Offset p1 = Offset(
