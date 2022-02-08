@@ -66,9 +66,12 @@ class _MyAppState extends State<MyApp> {
 
   _generateImage() async {
     print('Generate Image');
+    for(LatLng latLng in _polyline.points){
+      print(latLng);
+    }
     _imageByte = await DrawPath.drawSinglePath(
         points: _latLngList(_polyline.points),
-        strokeWidth: 30,
+        strokeWidth: 10,
         maxWidth: 200,
         maxHeight: 200,
     );

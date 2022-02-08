@@ -46,4 +46,5 @@ class LatLngBounds {
 
   /// Obtain coordinates of northeast corner of the bounds
   LatLng? get northEast => _ne;
+
 }
